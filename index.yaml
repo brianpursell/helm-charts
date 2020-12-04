@@ -3,7 +3,17 @@ entries:
   node-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-12-04T09:50:26.487851-08:00"
+    created: "2020-12-04T10:07:12.296004-08:00"
+    description: A Helm chart for Kubernetes
+    digest: 6a54e22e316115bce44ed9ec5b5eb544587dc139f0295487eb3f69c408ff6c28
+    name: node-app
+    type: application
+    urls:
+    - node-app-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-12-04T10:07:12.295617-08:00"
     description: A Helm chart for Kubernetes
     digest: 5d7df9b5a022f3f5ec155ab4a0c1a866ec1cd2d1ebe78803c38708687d3f153e
     name: node-app
@@ -13,7 +23,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-12-04T09:50:26.487467-08:00"
+    created: "2020-12-04T10:07:12.294978-08:00"
     description: A Helm chart for Kubernetes
     digest: f0aa2b7c266c0aacc6733bb9048f48d9c6a014a7af8f1232737e6cd6c09cd5b2
     name: node-app
@@ -21,4 +31,4 @@ entries:
     urls:
     - node-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-12-04T09:50:26.486676-08:00"
+generated: "2020-12-04T10:07:12.292791-08:00"
